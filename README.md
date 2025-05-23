@@ -1,6 +1,6 @@
 ### Hey, I'm Maximilian 👋
 
-Engineering and Architecture student, new to development.
+Student, new to development.
 
 I like building things that make access easier - especially when it comes to music, media, and useful tools.
 
