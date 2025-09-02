@@ -1,5 +1,4 @@
 # 💫 About Me:
-Student, new to development.<br><br>I like building things that make access easier - especially when it comes to safety, music, media, AI and useful tools.
 
 **🧪 Things I've Worked On**
 - Made a [userscript](https://github.com/Maxikozie/FMHY-SafeLink-Guard) using the Free Media Heck Yeah database  
