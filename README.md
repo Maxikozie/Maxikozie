@@ -1,16 +1,51 @@
-# 💫 About Me:
+<h1 align="center">Maxikozie</h1>
 
-**🧪 Things I've Worked On**
-- Made a [userscript](https://github.com/Maxikozie/FMHY-SafeLink-Guard) using the Free Media Heck Yeah database  
-- Eventually merged with the official [FMHY browser extension](https://github.com/fmhy/FMHY-SafeGuard)  
-- Wrote a [GPU passthrough guide and toggle script](https://github.com/Maxikozie/NVIDIsolate-VFIOPassthrough) to isolate NVIDIA GPUs for VFIO using Arch Linux
-- Currently working on a UI wrapper for [shira](https://github.com/KraXen72/shira), a music downloader
+<p align="center">
+  Small tools, mostly built because I wanted them to exist.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maximilian-schutte) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MaximilianSchutte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxikozie2006@gmail.com) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+</p>
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maxikozie&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxikozie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+### [FMHY-SafeLink-Guard](https://github.com/Maxikozie/FMHY-SafeLink-Guard)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Stars](https://img.shields.io/github/stars/Maxikozie/FMHY-SafeLink-Guard?style=flat-square&color=DBAB0A)
+![Status](https://img.shields.io/badge/status-merged%20upstream-6f42c1?style=flat-square)
+
+Userscript that flags malicious and scam domains inline on any webpage, using the [FMHY](https://github.com/fmhy) filterlist as its source of truth. Cached client-side, with a `MutationObserver` for dynamically injected links.
+
+> Merged into the official [FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard) extension — this repo is archived.
+
+<br>
+
+### [shira-ui](https://github.com/Maxikozie/shira-ui)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
+
+A graphical front-end for [shira](https://github.com/KraXen72/shira), a command-line music downloader.
+
+---
+
+<p align="center">
+  <sub>Dutch · English · French</sub>
+</p>
