@@ -98,13 +98,12 @@ def render(paths: list[str], trace: str, day: dt.date, t: dict[str, str]) -> str
 <path class="t" pathLength="1" d="{trace}"/>
 </g>
 <g class="fade">
-  <text class="small" x="66" y="128">sheet {day.isoformat()}</text>
-  <text class="name" x="64" y="200">maxikozie</text>
-  <text class="tag" x="66" y="248">small tools, mostly built because</text>
-  <text class="tag" x="66" y="282">I wanted them to exist.</text>
-  <path class="bar" d="M66 352v8h120v-8M126 356v4"/>
-  <text class="small" x="61" y="388">0</text>
-  <text class="small" x="138" y="388">1 weekend</text>
+  <text class="small" x="66" y="120">sheet {day.isoformat()}</text>
+  <text class="name" x="64" y="192">maxikozie</text>
+  <text class="tag" x="66" y="238">terrain changes daily.</text>
+  <path class="bar" d="M66 296v8h120v-8M126 300v4"/>
+  <text class="small" x="61" y="332">0</text>
+  <text class="small" x="138" y="332">1 weekend</text>
 </g>
 </svg>
 """

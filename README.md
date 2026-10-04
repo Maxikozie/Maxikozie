@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Maxikozie/Maxikozie/raw/output/hero-dark.svg">
-  <img src="https://github.com/Maxikozie/Maxikozie/raw/output/hero-light.svg" alt="maxikozie: small tools, mostly built because I wanted them to exist." width="100%">
+  <img src="https://github.com/Maxikozie/Maxikozie/raw/output/hero-light.svg" alt="maxikozie: terrain changes daily. A topographic map that is redrawn every day." width="100%">
 </picture>
 
 <br>
