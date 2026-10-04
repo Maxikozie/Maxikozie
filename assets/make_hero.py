@@ -73,7 +73,7 @@ def render(paths: list[str], trace: str, day: dt.date, t: dict[str, str]) -> str
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none">
 <style>
   .c {{ stroke: {t["line"]}; stroke-width: 1; opacity: .55; stroke-linejoin: round;
-        stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.6s cubic-bezier(.4,0,.2,1) forwards; }}
+        stroke-dasharray: 1; animation: draw 2.6s cubic-bezier(.4,0,.2,1) backwards; }}
   .c.i {{ stroke-width: 1.6; opacity: .9; }}
   .t {{ stroke: {t["accent"]}; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: .05 .95;
         stroke-dashoffset: 1; animation: trace 14s linear 3.2s infinite; }}
@@ -81,10 +81,12 @@ def render(paths: list[str], trace: str, day: dt.date, t: dict[str, str]) -> str
   .tag {{ fill: {t["muted"]}; font: 24px {FONT}; }}
   .small {{ fill: {t["muted"]}; font: 18px {FONT}; }}
   .bar {{ stroke: {t["muted"]}; stroke-width: 1.5; }}
-  .fade {{ opacity: 0; animation: in 1s ease .3s forwards; }}
-  @keyframes draw {{ to {{ stroke-dashoffset: 0; }} }}
+  .fade {{ animation: in 1s ease .3s backwards; }}
+  /* animate from hidden, so anything that skips the animation still shows the finished map */
+  @keyframes draw {{ from {{ stroke-dashoffset: 1; }} }}
   @keyframes trace {{ to {{ stroke-dashoffset: -1; }} }}
-  @keyframes in {{ to {{ opacity: 1; }} }}
+  @keyframes in {{ from {{ opacity: 0; }} }}
+  @media (prefers-reduced-motion: reduce) {{ .c, .t, .fade {{ animation: none; }} }}
 </style>
 <defs>
   <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
