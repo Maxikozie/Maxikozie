@@ -86,7 +86,6 @@ def render(paths: list[str], trace: str, day: dt.date, t: dict[str, str]) -> str
   @keyframes draw {{ from {{ stroke-dashoffset: 1; }} }}
   @keyframes trace {{ to {{ stroke-dashoffset: -1; }} }}
   @keyframes in {{ from {{ opacity: 0; }} }}
-  @media (prefers-reduced-motion: reduce) {{ .c, .t, .fade {{ animation: none; }} }}
 </style>
 <defs>
   <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
