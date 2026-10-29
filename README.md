@@ -10,7 +10,7 @@
 [trustlayer](https://github.com/Maxikozie/good-will-prompting) — tells AI assistants which document to trust<br>
 [safelink-guard](https://github.com/Maxikozie/FMHY-SafeLink-Guard) — flags scam links inline, now part of FMHY<br>
 [shira-ui](https://github.com/Maxikozie/shira-ui) — a desktop app for a CLI music downloader<br>
-[cover-posterizer](https://github.com/Maxikozie/cover-posterizer) — a folder of comics, turned into one poster
+[tuckaway](https://github.com/Maxikozie/Tuckaway) — remaps a G502 mouse without G HUB, saved in the mouse itself<br>
 
 </samp>
 
